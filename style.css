@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: red;
+}
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#submit_button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+#Display {
+    font-weight: bold;
+    color: rgb(194, 159, 47);
+}
+input {
+    margin: 10px;
+}
